@@ -1,0 +1,44 @@
+.hero-section{
+    background-color: #2b2c2c;
+    padding-top: 160px;
+}
+
+.hero-head{
+    color: white;
+    font-size: 90px;
+}
+.here-des{
+    color: #cccccc;
+    font-size: 22px;
+}
+
+.button-hire {
+    font-weight: 500;
+    border: 2px solid #feb633;
+    line-height: 60px;
+    padding: 0 63px;
+    font-size: 20px;
+    text-transform: capitalize;
+    background-color: #feb633;
+    transition: all 0.3s;
+    color: white;
+    border-radius: 2px;
+  }
+
+.button-hire:hover{
+    border: 2px solid #feb633;
+    color: #feb633;
+    background-color: #2b2c2c;
+}
+
+.button-hire:focus{
+    outline: none !important;
+}
+
+.temp-pad{
+    padding-bottom: 40px;
+}
+
+.pad-top{
+    padding-top: 150px;
+}

@@ -1,0 +1,34 @@
+.aboutme-section{
+    background-color: #303131;
+}
+.cus-con-about{
+    max-width: 1000px !important;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.about-head{
+    color: #cccccc;
+}
+
+.div-head-about{
+    padding-top: 30%;
+    font-size: 55px;
+}
+
+.about-para{
+    color: #8f8f8f;
+}
+
+.div-para-about{
+    padding-top: 20px;
+    font-size: 18px;
+}
+
+.pad-bt-abt{
+    padding-bottom: 40px;
+}
+
+.mt-ryt-abt{
+    margin-right: 20px;
+}

@@ -1,0 +1,23 @@
+.service-section{
+    background-color: #2b2c2c;
+}
+
+.pt-top{
+    padding-top: 60px;
+}
+
+.service-div{
+    text-align: center;
+}
+
+.service-head{
+    color: #cccccc;
+    font-size: 40px;
+}
+
+.service-para{
+    font-size: 18px;
+    color: #999999;
+    text-align: center;
+    padding-top: 20px;
+}
