@@ -1,0 +1,17 @@
+.work-bg{
+    background-color: #303131;
+}
+.work{
+    text-align: center;
+}
+
+.work p{
+    color: #cccccc;
+    font-size: 60px;
+}
+
+.work-dis p{
+    color: #959595;
+    text-align: center;
+    font-size: 18px;
+}
